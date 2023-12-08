@@ -8,6 +8,8 @@ ___
 ### АЛЬФА-ВЕРСИЯ
 
 [https://prediction-service.ddns.net/]
+
+
 [https://prediction-service.ddns.net/api/swagger/]
 
 [https://prediction-service.ddns.net/]: <https://prediction-service.ddns.net/>
