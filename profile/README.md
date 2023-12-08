@@ -7,10 +7,11 @@ ___
 
 ### АЛЬФА-ВЕРСИЯ
 
-[https://prediction-service.ddns.net/] (https:prediction-service.ddns.net)
+[https://prediction-service.ddns.net/]
+[https://prediction-service.ddns.net/api/swagger/]
 
-
-[https://prediction-service.ddns.net/api/swagger/] (https:prediction-service.ddns.net/api/swagger/)
+[https://prediction-service.ddns.net/]: <https://prediction-service.ddns.net/>
+[https://prediction-service.ddns.net/api/swagger/]: <https://prediction-service.ddns.net/api/swagger/>
 
 ___
 
@@ -23,7 +24,7 @@ ___
 В процессе разработки проекта были реализованы:
 - интуитивно понятный интерфейс;
 - предварительный анализ данных и машиннное обучение;
-- удобное хранение и работа с записяси в БД.
+- удобное хранение и работа с записями в БД.
 ___
 
 ### ТЕХНОЛОГИИ
@@ -151,17 +152,21 @@ ___
 
 ### КОМАНДА FRONTEND
 [Богдан Исаченко]
+
 [Кирилл Красноруцкий]
 
 ### КОМАНДА BACKEND
 
 [Кирилл Широков]
+
 [Максим Головин]
 
 ### КОМАНДА DATA SIENCE
 
 [Денис Минайчев]
+
 [Андрей Мукосеев]
+
 [Ирина Носач]
 
 
