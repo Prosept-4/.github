@@ -183,7 +183,7 @@ ___
 [Ирина Носач]: <https://t.me/Lola_bsl/>
 
 
-[Python]: <https://www.python.org/>https://web.telegram.org/k/#@RoofMountain
+[Python]: <https://www.python.org/>
 [Django]: <https://www.djangoproject.com/>
 [Django REST framework]: <https://www.django-rest-framework.org/>
 [PostgreSQL]: <https://www.postgresql.org/>
