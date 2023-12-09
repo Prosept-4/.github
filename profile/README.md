@@ -173,14 +173,14 @@ ___
 
 
 
-[Константин Чернышов]: <https://t.me/@RoofMountain/>
-[Богдан Исаченко]: <https://t.me/@doctorian/>
-[Кирилл Красноруцкий]: <https://t.me/@Red_Handed_Guy/>
-[Кирилл Широков]: <https://t.me/@Kirill_Sh_ow/>
-[Максим Головин]: <https://t.me/@PrimeStr/>
-[Денис Минайчев]: <https://t.me/@Serios_Den/>
-[Андрей Мукосеев]: <https://t.me/@andreichpog/>
-[Ирина Носач]: <https://t.me/@Lola_bsl/>
+[Константин Чернышов]: <https://t.me/RoofMountain/>
+[Богдан Исаченко]: <https://t.me/doctorian/>
+[Кирилл Красноруцкий]: <https://t.me/Red_Handed_Guy/>
+[Кирилл Широков]: <https://t.me/Kirill_Sh_ow/>
+[Максим Головин]: <https://t.me/PrimeStr/>
+[Денис Минайчев]: <https://t.me/Serios_Den/>
+[Андрей Мукосеев]: <https://t.me/andreichpog/>
+[Ирина Носач]: <https://t.me/Lola_bsl/>
 
 
 [Python]: <https://www.python.org/>https://web.telegram.org/k/#@RoofMountain
