@@ -173,17 +173,17 @@ ___
 
 
 
-[Константин Чернышов]: <https://t.me/ChernyshovK/>
-[Богдан Исаченко]: <https://t.me/Doctorian-Bogdan/>
-[Кирилл Красноруцкий]: <https://t.me/Red-Handed-Guy/>
-[Кирилл Широков]: <https://t.me/KirillShirokov/>
-[Максим Головин]: <https://t.me/PrimeStr/>
-[Денис Минайчев]: <https://t.me/SeriousDen7/>
-[Андрей Мукосеев]: <https://t.me/Andrey-Mukoseev/>
-[Ирина Носач]: <https://t.me/LolaBSL/>
+[Константин Чернышов]: <https://t.me/@RoofMountain/>
+[Богдан Исаченко]: <https://t.me/@doctorian/>
+[Кирилл Красноруцкий]: <https://t.me/@Red_Handed_Guy/>
+[Кирилл Широков]: <https://t.me/@Kirill_Sh_ow/>
+[Максим Головин]: <https://t.me/@PrimeStr/>
+[Денис Минайчев]: <https://t.me/@Serios_Den/>
+[Андрей Мукосеев]: <https://t.me/@andreichpog/>
+[Ирина Носач]: <https://t.me/@Lola_bsl/>
 
 
-[Python]: <https://www.python.org/>
+[Python]: <https://www.python.org/>https://web.telegram.org/k/#@RoofMountain
 [Django]: <https://www.djangoproject.com/>
 [Django REST framework]: <https://www.django-rest-framework.org/>
 [PostgreSQL]: <https://www.postgresql.org/>
