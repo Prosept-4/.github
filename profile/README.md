@@ -201,3 +201,6 @@ ___
 [Vite]: <https://vitejs.dev/>
 [Redux]: <https://redux.js.org/>
 [Yup]: <https://github.com/jquense/yup>
+[HTML5]: <https://htmlbook.ru/html5>
+[CSS3]: <https://htmlbook.ru/css3>
+
